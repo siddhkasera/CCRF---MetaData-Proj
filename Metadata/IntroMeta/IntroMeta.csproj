@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\IntroLib\IntroLib.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+   <!-- <PackageReference Include="PresentationCore" Version="*"/>
+    <PackageReference Include="Ccr.PresentationCore" Version="*"/>-->
+    <FrameworkReference Include="Microsoft.WindowsDesktop.App" />
+    <!--<FrameworkReference Include="WindowsBase.dll"/> -->
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserWPF> true </UserWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>

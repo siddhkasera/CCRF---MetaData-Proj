@@ -1,0 +1,12 @@
+C:\Users\skaseratemp\Metadata\introlib\bin\Debug\net6.0\IntroLib.deps.json
+C:\Users\skaseratemp\Metadata\introlib\bin\Debug\net6.0\IntroLib.dll
+C:\Users\skaseratemp\Metadata\introlib\bin\Debug\net6.0\ref\IntroLib.dll
+C:\Users\skaseratemp\Metadata\introlib\bin\Debug\net6.0\IntroLib.pdb
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.csproj.AssemblyReference.cache
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.AssemblyInfoInputs.cache
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.AssemblyInfo.cs
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.csproj.CoreCompileInputs.cache
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.dll
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\ref\IntroLib.dll
+C:\Users\skaseratemp\Metadata\introlib\obj\Debug\net6.0\IntroLib.pdb

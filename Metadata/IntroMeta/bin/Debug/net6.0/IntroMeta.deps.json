@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IntroMeta/1.0.0": {
+        "dependencies": {
+          "IntroLib": "1.0.0"
+        },
+        "runtime": {
+          "IntroMeta.dll": {}
+        }
+      },
+      "IntroLib/1.0.0": {
+        "runtime": {
+          "IntroLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroMeta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntroLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
